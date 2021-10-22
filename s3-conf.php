@@ -1,0 +1,1 @@
+<?php $accessKey='AKIA5UQWHS3EWQFM765L'; $secretKey='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'; $region='us-east-1'; $bucket='aprendendoawslucas'; $arqName='logo.jpg'; $linkestatico='https://s3.amazonaws.com' ?>
